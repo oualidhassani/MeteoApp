@@ -1,4 +1,8 @@
-![Simulator Screenshot - iPhone 15 Pro Max - 2025-01-16 at 21 15 32](https://github.com/user-attachments/assets/61a5c312-a518-4e69-a4ea-e7c5ceee3de4)# My Meteo App
+
+## App Preview
+![MeteoApp] (./assests/./assets/Screenshot 2025-01-16 at 21.29.54.png)
+
+<img src="./assets/Screenshot 2025-01-16 at 21.29.54.png" width="180" height="320" alt="MeteoApp Screenshot">
 
 Welcome to **My Meteo App**, my first Flutter project! This app allows users to check the current weather conditions for any city by leveraging the OpenWeatherMap API.
 
