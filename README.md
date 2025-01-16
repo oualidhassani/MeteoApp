@@ -1,6 +1,6 @@
 
 ## App Preview
-![MeteoApp] (./assests/./assets/Screenshot 2025-01-16 at 21.29.54.png)
+![MeteoApp] (./assets/Screenshot 2025-01-16 at 21.29.54.png)
 
 <img src="./assets/Screenshot 2025-01-16 at 21.29.54.png" width="180" height="320" alt="MeteoApp Screenshot">
 
