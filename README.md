@@ -11,10 +11,8 @@ Welcome to **My Meteo App**, my first Flutter project! This app allows users to 
 - Navigate between the home page and detailed weather information page.
 - Stunning background imagery that enhances the user experience.
 
-## picture how the app look like 
-
-![MeteoApp] (./assests/Simulator Screenshot - iPhone 15 Pro Max - 2025-01-16 at 21.15.32)
-
+## App Preview
+<img src="./assets/Simulator Screenshot - iPhone 15 Pro Max - 2025-01-16 at 21.15.32" width="300" alt="MeteoApp Screenshot">
 
 ---
 
@@ -44,11 +42,7 @@ Follow these steps to run the app locally:
    flutter pub get
    ```
 
-4. Add your OpenWeatherMap API key:
-   - Open the file `lib/WeatherDetailPage.dart`.
-   - Replace the placeholder `f8df26a2a66091da931420015e6c7d33` with your own API key.
-
-5. Run the app on an emulator or connected device:
+4. Run the app on an emulator or connected device:
    ```bash
    flutter run
    ```
