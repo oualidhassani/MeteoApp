@@ -1,7 +1,9 @@
 # My Meteo App
 
 ## App Preview
-<img src="./assets/Screenshot 2025-01-16 at 21.29.54.png" width="180" height="320" alt="MeteoApp Screenshot">
+<div align="center">
+  <img src="./assets/Screenshot 2025-01-16 at 21.29.54.png" width="250" height="450" alt="MeteoApp Screenshot">
+</div>
 
 Welcome to **My Meteo App**, my first Flutter project! This app allows users to check the current weather conditions for any city by leveraging the OpenWeatherMap API.
 
