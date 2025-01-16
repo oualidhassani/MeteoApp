@@ -12,7 +12,7 @@ Welcome to **My Meteo App**, my first Flutter project! This app allows users to 
 - Stunning background imagery that enhances the user experience.
 
 ## App Preview
-<img src="./assets/Simulator Screenshot - iPhone 15 Pro Max - 2025-01-16 at 21.15.32" width="300" alt="MeteoApp Screenshot">
+<img src="./assets/Simulator Screenshot - iPhone 15 Pro Max - 2025-01-16 at 21.15.32" width="200" alt="MeteoApp Screenshot">
 
 ---
 
