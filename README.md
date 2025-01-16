@@ -1,7 +1,6 @@
+# My Meteo App
 
 ## App Preview
-![MeteoApp] (./assets/Screenshot 2025-01-16 at 21.29.54.png)
-
 <img src="./assets/Screenshot 2025-01-16 at 21.29.54.png" width="180" height="320" alt="MeteoApp Screenshot">
 
 Welcome to **My Meteo App**, my first Flutter project! This app allows users to check the current weather conditions for any city by leveraging the OpenWeatherMap API.
@@ -15,12 +14,8 @@ Welcome to **My Meteo App**, my first Flutter project! This app allows users to 
 - Navigate between the home page and detailed weather information page.
 - Stunning background imagery that enhances the user experience.
 
-
----
-
 ## Prerequisites
 Before running this app, ensure you have the following installed:
-
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (version 3.10 or later recommended)
 - Dart (comes with Flutter installation)
 - Android Studio or VS Code with Flutter extensions
@@ -28,32 +23,25 @@ Before running this app, ensure you have the following installed:
 
 ## Installation and Setup
 Follow these steps to run the app locally:
-
 1. Clone this repository:
    ```bash
    git clone <repository-url>
    ```
-
 2. Navigate to the project directory:
    ```bash
    cd my-meteo-app
    ```
-
 3. Install the dependencies:
    ```bash
    flutter pub get
    ```
-
 4. Run the app on an emulator or connected device:
    ```bash
    flutter run
    ```
 
----
-
 ## File Structure
 Here is a brief overview of the app's file structure:
-
 ```
 my-meteo-app/
 |- assets/                     # Contains background images used in the app
@@ -64,14 +52,10 @@ my-meteo-app/
 |- pubspec.yaml                # Project dependencies and metadata
 ```
 
----
-
 ## How It Works
 1. The **HomePage** displays a welcome message and a button to navigate to the weather details page.
 2. On the **WeatherDetailPage**, users can input a city name and fetch real-time weather data by pressing the "Fetch Weather" button.
 3. The app communicates with the OpenWeatherMap API to retrieve weather information and displays it on the screen.
-
----
 
 ## Known Issues
 - Ensure you have a stable internet connection to fetch weather data.
@@ -82,12 +66,7 @@ my-meteo-app/
 - Implement multi-language support.
 - Improve responsiveness on tablets and larger screens.
 
----
-
 ## License
 This project is licensed under the MIT License. Feel free to use it as a starting point for your own Flutter projects!
 
----
-
 Thank you for trying **My Meteo App**! If you have any feedback or suggestions, feel free to reach out.
-
